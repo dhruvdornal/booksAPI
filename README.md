@@ -210,6 +210,10 @@ http://localhost:3000
 
 ### Step-by-Step Testing Process:
 
+0. **Install Dependencies**:
+   ```bash
+   npm install
+   ```
 1. **Start the server**:
    ```bash
    node working-server.js
